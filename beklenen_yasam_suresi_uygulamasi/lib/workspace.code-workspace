@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../VSC C"
+		},
+		{
+			"path": "../../../VSC C++"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"__locale": "c"
+		}
+	}
+}
