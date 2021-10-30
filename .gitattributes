@@ -1,2 +1,3 @@
 *.html linguist-detectable=false
-*.objective-c linguist-vendored=false
+* linguist-vendored
+*.swift linguist-vendored=false
